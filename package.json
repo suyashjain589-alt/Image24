@@ -1,0 +1,12 @@
+{
+  "name": "image24",
+  "private": true,
+  "version": "21.1.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.35.0"
+  }
+}

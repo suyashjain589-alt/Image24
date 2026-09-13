@@ -1,0 +1,18 @@
+# Canonicalize legacy tool aliases to the public hyphenated URLs.
+/tools/mergepdf.html /tools/merge-pdf.html 301
+/tools/splitpdf.html /tools/split-pdf.html 301
+/tools/compresspdf.html /tools/compress-pdf.html 301
+/tools/wordpdf.html /tools/word-to-pdf.html 301
+/tools/pdfexcel.html /tools/pdf-to-excel.html 301
+/tools/pdfword.html /tools/pdf-to-word.html 301
+/tools/jpgpdf.html /tools/jpg-to-pdf.html 301
+/tools/pdfjpg.html /tools/pdf-to-jpg.html 301
+/tools/editpdf.html /tools/edit-pdf.html 301
+/tools/excelpdf.html /tools/excel-to-pdf.html 301
+/tools/watermarkpdf.html /tools/watermark-pdf.html 301
+/tools/unlockpdf.html /tools/unlock-pdf.html 301
+/tools/organisepdf.html /tools/organise-pdf.html 301
+/tools/imageresize.html /tools/image-resize.html 301
+/tools/cropimage.html /tools/crop-image.html 301
+/tools/removebackground.html /tools/remove-background.html 301
+/tools/bulkimageresize.html /tools/bulk-image-resize.html 301

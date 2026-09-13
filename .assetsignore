@@ -1,0 +1,7 @@
+_worker.js
+wrangler.jsonc
+schema.sql
+README-DEPLOY.md
+.gitignore
+.dev.vars*
+.env*

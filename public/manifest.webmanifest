@@ -1,0 +1,10 @@
+{
+  "name": "IMAGE 24 — Image & PDF Tools",
+  "short_name": "IMAGE 24",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#795cff",
+  "icons": [{"src":"/assets/image24-logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}],
+  "version": "17.0.0"
+}
