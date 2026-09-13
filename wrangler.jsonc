@@ -14,13 +14,10 @@
     {
       "binding": "DB",
       "database_name": "image24-production",
-      "database_id": "bba435c1-4b6c-442a-bd30-b9a18da5aece"
+      "database_id": "ffc4b922-c6aa-4d70-bc8d-19c96669a67d"
     }
   ],
   "triggers": {
     "crons": ["17 3 * * *"]
   },
-  "secrets": {
-    "required": ["AUTH_PEPPER", "RESEND_API_KEY", "FROM_EMAIL"]
-  }
 }
